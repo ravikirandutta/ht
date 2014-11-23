@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 lib-cov
 *.seed
 *.log
@@ -21,6 +22,8 @@ node_modules
 .DS_Store
 Thumbs.db
 =======
+=======
+>>>>>>> eb4e7b2901b965d6d01829bf1678cdcb02bcef5f
 # Logs
 logs
 *.log
@@ -49,4 +52,7 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+<<<<<<< HEAD
+>>>>>>> eb4e7b2901b965d6d01829bf1678cdcb02bcef5f
+=======
 >>>>>>> eb4e7b2901b965d6d01829bf1678cdcb02bcef5f
