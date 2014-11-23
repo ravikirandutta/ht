@@ -20,7 +20,7 @@ module.exports = {
 
   db: process.env.MONGOLAB_URI || process.env.MONGODB ||  'mongodb://ht:ht123@ds053310.mongolab.com:53310/ht-sandbox-db,'//'mongodb://localhost:27017/test',
 
-  sessionSecret: process.env.SESSION_SECRET || 'ABCDEFGH',
+  sessionSecret: process.env.SESSION_SECRET || 'sesionsecret',
 
   mailgun: {
     user: process.env.MAILGUN_USER || 'postmaster@sandbox697fcddc09814c6b83718b9fd5d4e5dc.mailgun.org',
